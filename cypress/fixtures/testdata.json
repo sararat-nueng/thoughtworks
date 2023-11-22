@@ -1,0 +1,12 @@
+{
+  "header1": " MarsAir",
+  "header2": "Welcome to MarsAir!",
+  "header3": "Book a ticket to the red planet now!",
+  
+  "searchResultPage":{
+    "seatStatusAvaliable" : "Seats available!",
+    "seatStatusUnfortunately" : "Unfortunately, this schedule is not possible. Please try again.",
+    "seatStatusNotAvaliable" : "Sorry, there are no more seats available."
+  }
+
+}
